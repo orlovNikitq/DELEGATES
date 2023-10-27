@@ -1,0 +1,14 @@
+C:\Users\zunderz\Documents\projc#\classWork\classWork\obj\Debug\net6.0\classWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zunderz\Documents\projc#\classWork\classWork\obj\Debug\net6.0\classWork.AssemblyInfoInputs.cache
+C:\Users\zunderz\Documents\projc#\classWork\classWork\obj\Debug\net6.0\classWork.AssemblyInfo.cs
+C:\Users\zunderz\Documents\projc#\classWork\classWork\obj\Debug\net6.0\classWork.csproj.CoreCompileInputs.cache
+C:\Users\zunderz\Documents\projc#\classWork\classWork\bin\Debug\net6.0\classWork.exe
+C:\Users\zunderz\Documents\projc#\classWork\classWork\bin\Debug\net6.0\classWork.deps.json
+C:\Users\zunderz\Documents\projc#\classWork\classWork\bin\Debug\net6.0\classWork.runtimeconfig.json
+C:\Users\zunderz\Documents\projc#\classWork\classWork\bin\Debug\net6.0\classWork.dll
+C:\Users\zunderz\Documents\projc#\classWork\classWork\bin\Debug\net6.0\classWork.pdb
+C:\Users\zunderz\Documents\projc#\classWork\classWork\obj\Debug\net6.0\classWork.dll
+C:\Users\zunderz\Documents\projc#\classWork\classWork\obj\Debug\net6.0\refint\classWork.dll
+C:\Users\zunderz\Documents\projc#\classWork\classWork\obj\Debug\net6.0\classWork.pdb
+C:\Users\zunderz\Documents\projc#\classWork\classWork\obj\Debug\net6.0\classWork.genruntimeconfig.cache
+C:\Users\zunderz\Documents\projc#\classWork\classWork\obj\Debug\net6.0\ref\classWork.dll
